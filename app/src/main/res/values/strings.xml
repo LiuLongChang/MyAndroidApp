@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">MyAndroidApp</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="button_send">Say something</string>
+    <string name="default_message">Click button below!</string>
+    <string name="interact_message">You just clicked on the Button!</string>
+
+
+    <string name="hello">Hello World, NineBox!</string>
+    <string name="gridView1">九宫格1</string>
+    <string name="gridView2">九宫格2</string>
+    <string name="gridView3">九宫格3</string>
+    <string name="gridView4">九宫格4</string>
+    <string name="gridView5">九宫格5</string>
+    <string name="gridView6">九宫格6</string>
+    <string name="gridView7">九宫格7</string>
+    <string name="gridView8">九宫格8</string>
+    <string name="gridView9">九宫格9</string>
+
+</resources>
